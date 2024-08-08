@@ -4,7 +4,7 @@ import random
 import requests
 from AnnayanX import app 
 
-SUPPORT_CHAT = "BourbonFriends"
+SUPPORT_CHAT = "+SVYd3OOFOuwxMWE9"
 
 @app.on_message(filters.command("wish"))
 async def wish(_, m):
